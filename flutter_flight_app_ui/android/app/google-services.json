@@ -1,0 +1,29 @@
+  {
+  "project_info": {
+    "project_number": "569458172318",
+    "project_id": "flutterflightappui",
+    "storage_bucket": "flutterflightappui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569458172318:android:06982c555d8c8205daf68f",
+        "android_client_info": {
+          "package_name": "com.example.flight_app_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWqIe-ATopQvYMwkx7J4SExj3CRY4H_xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
